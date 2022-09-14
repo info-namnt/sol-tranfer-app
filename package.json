@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "author": "Nam NT",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.59.1",
+    "dotenv": "^16.0.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
